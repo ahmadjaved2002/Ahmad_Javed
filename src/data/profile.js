@@ -1,4 +1,4 @@
-import AhmadJavedResume from '../assets/Ahmad_Javed_Resume.docx'
+import AhmadJavedResume from '../assets/Ahmad_Javed_Resume.pdf'
 
 export const profile = {
   name: 'Ahmad Javed',
